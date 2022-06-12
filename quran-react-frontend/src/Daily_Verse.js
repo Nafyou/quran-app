@@ -4,7 +4,7 @@ function Daily_Verse() {
   return (
     <div className="Daily_Verse">
         <div className="main_container">
-        <h1>Welcome to your Daily Verse</h1>
+            <h1>Welcome to your Daily Verse</h1>
         </div>
     </div>
   );
