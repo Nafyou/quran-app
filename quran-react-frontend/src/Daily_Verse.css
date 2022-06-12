@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.main_container {
+  display: flex;
+  -ms-flex-align: center;
+  justify-content: center;
+
+}
+h1{
+  font-style: italic;
+}
+body {
+  background-color: rgba(104, 229, 177, 0.62);
+}
